@@ -1,6 +1,6 @@
 Trees for directional line placement
 
-Contact Info : Lenny Brown || lbrown51@u.rochester.edu
+Contact Info : Lenny 
 Class : Project 3
 
 Description:
